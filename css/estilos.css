@@ -1,0 +1,23 @@
+.botonTweets {
+    background-color: rgb(12, 90, 254);
+    border: none;
+    padding: 10px;
+    border-radius: 5%;
+    margin: auto;
+    color: white;
+}
+.tweets {
+    max-height: 125rem;
+    overflow: hidden;
+}
+.contenedorBtnTweets {
+    display: flex;
+    padding: 20px 0 0 0;
+}
+.quitarDiv {
+    display: none;
+}
+#x {
+    opacity: 0.6;
+    background-color: rgb(0, 0, 0);
+}
